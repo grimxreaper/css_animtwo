@@ -1,12 +1,15 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 body {
     text-align: center;
     background-color: rgb(255, 204, 217);
 }
+
+
 
 .fool {
     animation: moveUp ease-in-out 4s infinite running alternate-reverse;
